@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Why?",
+        "description": "Accounts of the deceased waste server space",
+        "image": "/img/facebookdead.jpg"
+    },
+    {
+        "name": "What?",
+        "description": "One portal for your digital footprint and data",
+        "image": "/img/digitalpad.jpg"
+    },
+    {
+        "name": "How?",
+        "description": "Taking Care Of Your Personal Data In A Safe Manner",
+        "image": "/troceslogo.png"
+    },
+    {
+        "name": "Who?",
+        "description": "For anyone who cares what happens to their info",
+        "image": "/img/peopleweird.jpg"
+    }
+]
